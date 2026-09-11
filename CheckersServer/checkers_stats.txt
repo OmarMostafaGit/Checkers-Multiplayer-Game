@@ -1,0 +1,4 @@
+Noor,0,0,0
+Marcus,4,4,0
+John,6,7,0
+Omar,3,2,0
