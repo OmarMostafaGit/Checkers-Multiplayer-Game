@@ -10,7 +10,8 @@ Royal Checkers is a desktop checkers game built in Java. The goal was to let pla
 
 The walkthrough shows the game lobby, a multiplayer match, and play against the computer.
 
-![Royal Checkers board and in-game chat during a match](docs/images/checkers-gameplay.png)
+<img width="2880" height="1712" alt="image" src="https://github.com/user-attachments/assets/2607aa32-950c-4e99-b320-ad7dae2ec2ca" />
+
 
 *The game screen shows the board, whose turn it is, and the match chat alongside the board.*
 
